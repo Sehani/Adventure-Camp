@@ -1,0 +1,63 @@
+body { background: linear-gradient(to top left, #999966 0%, #ccffff 100%);
+	 }
+form.form input, form.form textarea, form.form button{
+	background: #eee;
+	border: none;
+	border-radius: 10px;
+}
+
+.name input, .email input, .mydate input{
+	width: 315px;
+}
+
+h1{
+	color: #3f2559;
+	font-family: "Times New Roman";
+	margin-bottom: 80px;
+	margin-top: 20px;
+}
+
+form div{
+	margin-bottom: 100px;
+ 	text-align: left;
+  	margin-left: 400px;
+}
+label{
+	width: 300px;
+ 	display: inline-block;
+ 	font-size: 20px;
+}
+
+input [type='radio'] {
+	height: 30px;
+	 width: 20px;
+	 display: inline-block;
+
+	}
+
+
+button{
+	font-size:20px;
+ 	padding: 10px 30px;
+  	text-align: left; 
+  	margin-left: 310px;
+   	transition: 0.3s;
+    opacity: 0.6;
+    display: inline-block;
+    cursor: pointer;
+      }
+
+input{ 
+	font-size: 15px;
+ 	padding: 10px ;
+  	box-sizing: border-box;
+	}
+
+textarea{
+	font-size: 15px; 
+	padding: 10px; 
+	vertical-align:text-top;
+	width: 315px;
+	}
+
+

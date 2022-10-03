@@ -1,0 +1,70 @@
+/*bookingform*/
+
+
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+
+
+.form{
+  background-color: lightgray;
+  background-size: auto;
+  outline: 1px;
+  height:905px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 0px;
+  margin-right: 0px;
+  opacity: 0.7;
+}
+.first-group{
+  border:1px solid white;
+  height:800px;
+  width:1000px;
+  margin-top: 50px;
+  position:absolute;
+}
+.content{
+  border: 1px solid #000;
+  margin:10px;
+  margin-left: 8px;
+  padding:5px;
+}
+.content #input-group{
+  border:none;
+  outline:none;
+  background: transparent,
+  margin-left:8px;
+  width:300px;
+  color: #000;
+}
+.placeholder{
+  color: #000;
+}
+.fa{
+  display:inline-block;
+  color: #000;
+  border-right:1px solid #000;
+  padding:8px;
+  margin-left:8px;
+}
+.submit{
+   color:#fff;
+    background:#f55c78;
+    font-size: 27px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 80%;
+    padding: 8px;
+    margin: 0 auto;
+    border-radius: 20px;
+    display: block;
+    transition: all 0.3s ease 0s;
+
+}
